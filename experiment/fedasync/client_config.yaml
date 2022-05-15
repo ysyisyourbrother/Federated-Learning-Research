@@ -1,0 +1,3 @@
+# client config for dynamic
+client_num: 300 
+client_worker_number: 2 

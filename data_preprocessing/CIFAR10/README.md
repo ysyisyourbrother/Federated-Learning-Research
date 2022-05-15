@@ -1,0 +1,2 @@
+# Cifar10 dataset
+Cifar10 data preprcess code is based on the code for [FedProx](https://github.com/litian96/FedProx/blob/master/data/mnist) and [FedAVGpy](https://github.com/lx10077/fedavgpy/tree/master/data/mnist)
