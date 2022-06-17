@@ -26,7 +26,12 @@ Then the training process will begin and the checkpoint of global model will be 
 |FedAvg|[McMahan et al., 2017](https://arxiv.org/abs/1602.05629)|
 |FedProx|[Li et al., 2020](https://arxiv.org/abs/1812.06127)|
 |FedAsync|[Wang et al., 2021](https://arxiv.org/pdf/1903.03934.pdf?ref=https://githubhelp.com)|
+|FedAT|[Zheng Chai et al., 2021](https://dl.acm.org/doi/10.1145/3458817.3476211)|
+|Eco-FL|Shengyuan Ye et al., 2022|
 | On going         |...|
 
 ## Contacts
-Brandonye, brandonye@qq.com
+- Shengyuan Ye, brandonye [AT] foxmail [dot] com
+- Liekang Zeng, zenglk3 [AT] mail2 [dot] sysu [dot] edu [dot] cn
+
+

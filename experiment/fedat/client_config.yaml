@@ -1,0 +1,17 @@
+# client config for dynamic
+client_num: 300 
+group_num: 5 
+client_worker_number: 10
+delay_distribute_param:
+    0: [0, 0]
+    1: [0, 5]
+    2: [6, 10]
+    3: [11, 15]
+    4: [20, 30]
+client_worker_number: 5 
+group2workers:
+  0: [1]
+  1: [2]
+  2: [3]
+  3: [4]
+  4: [5]
