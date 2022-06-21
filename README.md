@@ -1,6 +1,9 @@
 # Federated-Learning-Research
 An implementation of federated learning research baseline methods based on [FedML-core](https://github.com/FedML-AI/FedML). This is not an implementation for only stand-alone simulation, but a distributed system that can be deployed on multiple real devices (or several docker containers on a same server), which can help researchers to explore more problems that may exist on real FL systems.
 
+Here are the list of publications based on this repository: 
+- #**ICPP 2022**# Our work "Eco-FL: Adaptive Federated Learning with Efficient Edge Collaborative Pipeline Training" has been accepted by *International Conference on Parallel Processing* 2022, CCF-B.
+
 ## Quick Start
 Here is demo to deploy our framework on a cluster with three devices. `A` (ip: 172.17.0.4) represents the server worker, `B` (ip: 172.17.0.13) and `C` (ip: 172.17.0.12) represent two client workers in FL system. All devices must have a `python3` environment with `pytorch` and `grpc` installed. You can find the env-requirement under `requirement.txt` file.
 
@@ -27,7 +30,6 @@ Then the training process will begin and the checkpoint of global model will be 
 |FedProx|[Li et al., 2020](https://arxiv.org/abs/1812.06127)|
 |FedAsync|[Wang et al., 2021](https://arxiv.org/pdf/1903.03934.pdf?ref=https://githubhelp.com)|
 |FedAT|[Zheng Chai et al., 2021](https://dl.acm.org/doi/10.1145/3458817.3476211)|
-|Eco-FL|Shengyuan Ye et al., 2022|
 | On going         |...|
 
 ## Contacts
